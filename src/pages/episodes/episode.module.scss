@@ -33,7 +33,7 @@
         right: 0;
         top: 50%;
         background: var(--green-500);
-        transform: translate(-50%, -50%);
+        transform: translate(50%, -50%);
       }
 
       &:hover {
@@ -41,4 +41,56 @@
       }
     }
   }
+
+
+
+  header {
+    padding-bottom: 1rem;
+    border-radius: 1px solid var(--gray-100);
+  
+    h1 {
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+   }
+  
+    span {
+      display: inline-block;
+      font-size: 0.875rem;
+  
+  
+      & + span {
+        margin-left: 1rem;
+        padding-left: 1rem;
+        position: relative;
+  
+  
+  
+        &::before {
+         content: "";
+         width: 4px;
+         height: 4px;
+         border-radius: 2px;
+         background: #DDD;
+         position: absolute;
+         left: 0;
+         top: 50%;
+         transform: translate(-50%, -50%);
+  
+        }
+      }
+    }
+  } 
+
+
+  .description {
+    margin-top: 2rem;
+    line-height: 2rem;
+    color: var(--gray-800);
+
+    p {
+      margin: 1.5rem 0;
+    }
+  }
 }
+
+
