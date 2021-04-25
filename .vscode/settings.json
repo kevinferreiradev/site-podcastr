@@ -134,5 +134,10 @@
   "cSpell.userWords": [
     "rocketseat"
   ],
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "cSpell.words": [
+    "contribuicao",
+    "importancia",
+    "podecastr"
+  ]
 }
