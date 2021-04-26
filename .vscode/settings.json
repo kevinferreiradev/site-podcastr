@@ -48,7 +48,7 @@
     "*.tsx": "typescriptreact"
   },
 
-  "window.zoomLevel": -1,
+  "window.zoomLevel": 0,
 
   "emmet.syntaxProfiles": { "javascript": "jsx" },
   "emmet.includeLanguages": { "javascript": "javascriptreact" },
@@ -138,6 +138,7 @@
   "cSpell.words": [
     "contribuicao",
     "importancia",
-    "podecastr"
+    "podecastr",
+    "podecastrnext"
   ]
 }
