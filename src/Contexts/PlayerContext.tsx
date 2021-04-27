@@ -50,7 +50,7 @@ export function PlayerContextProvider({ children } : PlayerContextProviderProps)
   }
 
   function setPlayingState(state: boolean) {
-    setIsPlaying(state);
+    setIsPlaying(state); 
   }
 
   function PlayNext() {
