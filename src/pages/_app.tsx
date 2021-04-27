@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }) {
     setIsPlaying(!isPlaying);
   }
 
-  function setPlayingState(state, boolean) {
+  function setPlayingState(state: boolean) {
     setIsPlaying(state);
   }
 
