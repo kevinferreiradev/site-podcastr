@@ -4,7 +4,8 @@
 # site-podcastr
 
 
-Usando a tecnologia React JS e Next JS para criação ao longo desses 5 dias junto com a Rocketseat.
+Seguindo a trilha ReactJS e usando a tecnologia ReactJS e NextJS, Context API, Axios e o Typescripy
+para criação ao longo desses 5 dias junto com a Rocketseat.
 
 
 # Tecnologias 
